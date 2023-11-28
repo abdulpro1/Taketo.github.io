@@ -1,0 +1,16 @@
+body{
+    height: auto;
+    width: auto;
+    background-color: aliceblue;
+
+}
+
+video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+
+ 
+@import url("https://www.youtube.com/watch?v=XFmWyCX7LbQ");
